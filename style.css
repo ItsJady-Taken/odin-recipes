@@ -1,0 +1,14 @@
+.header {
+    text-align: center;
+    background-color: rgb(236, 232, 232);
+    padding: 20px;
+    margin-top: 0;
+}
+
+.recipes-list {
+    border: 1px solid rgb(185, 179, 179);
+}
+
+a {
+    color: blue;
+}
