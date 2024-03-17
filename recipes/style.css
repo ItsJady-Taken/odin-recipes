@@ -1,8 +1,10 @@
 body {
     margin: 50px;
-    padding: 50px;
+    padding: 100px;
     background-color: rgb(245, 240, 234);
     border: 1px solid black;
+    padding-bottom: 0;
+    padding-top: 10px;
 }
 
 .header {
@@ -28,7 +30,9 @@ body {
     padding: 30px;
 }
 
-
+.direc, .ingre {
+    margin-top: -20px;    
+}
 
 a {
     color: blue;
